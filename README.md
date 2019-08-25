@@ -13,6 +13,13 @@
 **Core exercises** `(1/6)`
  
 **Extra exercises** `(0/14)`
+ 
+### Typescript
+
+**Core exercises** `(1/19)`
+ 
+**Extra exercises** `(0/68)`
+
 
 ----
 
