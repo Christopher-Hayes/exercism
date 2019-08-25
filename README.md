@@ -1,9 +1,18 @@
 # exercism
 
-### Progress
+## Progress
 
- - Bash **(4/86)**
- - Vimscript **(1/20)**
+### Bash
+ 
+**Core exercises** `(2/13)`
+ 
+**Extra exercises** `(2/73)`
+ 
+### Vimscript
+
+**Core exercises** `(1/6)`
+ 
+**Extra exercises** `(0/14)`
 
 ----
 
