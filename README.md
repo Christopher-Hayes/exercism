@@ -8,23 +8,23 @@ My favorite online learning platform. The free mentoring makes this platform pri
 
 ### Bash
  
-**Core exercises** `(4/13)`
+Core exercises `(4/13)`
  
-**Extra exercises** `(2/73)`
+Extra exercises `(2/73)`
 
  
 ### Vimscript
 
-**Core exercises** `(2/6)`
+Core exercises `(2/6)`
  
-**Extra exercises** `(0/14)`
+Extra exercises `(0/14)`
  
 
 ### Typescript
 
-**Core exercises** `(3/19)`
+Core exercises `(3/19)`
  
-**Extra exercises** `(6/68)`
+Extra exercises `(6/68)`
 
 ## Useful Links
 
