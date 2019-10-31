@@ -8,23 +8,23 @@ My favorite online learning platform. The free mentoring makes this platform pri
 
 ### Bash
  
-**Core exercises** `(2/13)`
+**Core exercises** `(4/13)`
  
 **Extra exercises** `(2/73)`
 
  
 ### Vimscript
 
-**Core exercises** `(1/6)`
+**Core exercises** `(2/6)`
  
 **Extra exercises** `(0/14)`
  
 
 ### Typescript
 
-**Core exercises** `(1/19)`
+**Core exercises** `(3/19)`
  
-**Extra exercises** `(0/68)`
+**Extra exercises** `(6/68)`
 
 ## Useful Links
 
@@ -35,7 +35,9 @@ My favorite online learning platform. The free mentoring makes this platform pri
 
 
 **TypeScript Testing:** https://exercism.io/tracks/typescript/tests
+
 **Bash Testing:** https://exercism.io/tracks/bash/tests
+
 **Vim Testing:** https://exercism.io/tracks/vimscript/tests
 
 
